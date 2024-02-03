@@ -1,0 +1,40 @@
+body { background-color: #ffffcc;
+  background-image: url(background.gif);
+  color: #330000;
+  font-family: Verdana, Arial, sans-serif;
+}
+#container { margin: auto;  
+  width:80%;
+  background-color:#ffffcc;
+  
+}
+#content { margin: auto;
+  padding:20px;        
+}
+
+h1 { background-color:#ccaa66;
+  color:#000000;     
+  text-align:center;
+}
+
+#nav { text-align:center; }
+
+#footer { background-color:#ccaa66;
+     color:#000000;
+     font-size: .60em;
+     font-style: italic;
+     text-align: center;
+}
+
+h2 {background-color:#ccaa66;
+ padding-left:10px;
+   padding-bottom: 5px;
+ font-size: 1.2em;
+
+ }
+.details { padding-left:20%;
+        padding-right:20%; 
+}
+
+img {border:0; }
+
